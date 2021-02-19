@@ -1,0 +1,1 @@
+Following along the PostgresQL tutorial from [golangdocs.com](https://golangdocs.com/golang-postgresql-example) using my own postgresQL database "koffer" with an "accounts" table. Creating some basic CRUD operations here.
